@@ -18,6 +18,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://jpatel.zainp.com"),
   title: {
     default: "Jeff Patel Optometrist | Mauritius",
     template: "%s | Jeff Patel Optometrist",

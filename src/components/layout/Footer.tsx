@@ -49,7 +49,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="space-y-5">
             <Image
-              src="https://jeffpatel.com/wp-content/uploads/2022/06/JP-LOGO-WEB-1-032-304-04-04.png"
+              src="/images/logo.png"
               alt="Jeff Patel Optometrist"
               width={140}
               height={40}
